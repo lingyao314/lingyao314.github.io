@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching Experience on Ling Yao&#39;s Personal Website</title>
+    <title>Ling Yao&#39;s Personal Website</title>
     <link>/collection/</link>
-    <description>Recent content in Teaching Experience on Ling Yao&#39;s Personal Website</description>
+    <description>Recent content on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Teaching Philosophy</title>
-      <link>/collection/teaching-philosophy/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      <title>University of Minnesota (unofficial) Beamer poster template</title>
+      <link>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/collection/teaching-philosophy/</guid>
-      <description>I think &amp;hellip;</description>
+      <guid>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</guid>
+      <description>This template is originally forked from Anish Athalye&amp;rsquo;s gemini beamer poster template. To use it, click on the button at the top of this page and make a copy of the Overleaf project.
+Colors and logo     I created a UMN beamer color theme to replace the genemi color theme, and named the color theme file in the root directory &amp;ldquo;beamercolorthemeumn.sty&amp;rdquo;. Among the UMN official colors, I used the UMN Maroon for title background and the UMN Gold for the main title.</description>
     </item>
     
   </channel>

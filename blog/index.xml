@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent Blogs on Ling Yao&#39;s Personal Website</title>
+    <title>Ling Yao&#39;s Personal Website</title>
     <link>/blog/</link>
-    <description>Recent content in Recent Blogs on Ling Yao&#39;s Personal Website</description>
+    <description>Recent content on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 15:54:18 -0500</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Barbies Don&#39;t Say Sorry</title>
+      <link>/blog/2023-09-07-barbies-don-t-say-sorry/</link>
+      <pubDate>Thu, 07 Sep 2023 15:54:18 -0500</pubDate>
       
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp,  pch = as.numeric(mlev),  col = mlev)) </description>
+      <guid>/blog/2023-09-07-barbies-don-t-say-sorry/</guid>
+      <description>I enjoyed watching Barbie the movie directed by Greta Gerwig. As I have been following the interviews and discussions around it, I ran into an interview of Margot Robbie, who played as Barbie. In the interview she shared a important lesson that she learned from watching the Barbie&amp;rsquo;s official YouTube channel. That is, swapping the word &amp;ldquo;sorry&amp;rdquo; for the word &amp;ldquo;thank you&amp;rdquo;. For example, instead of saying &amp;ldquo;sorry, I can&amp;rsquo;t do that&amp;rdquo;, say &amp;ldquo;thank you for understanding that I couldn&amp;rsquo;t do that&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Drawing a DAG (directed acrylic graph) on a webpage or in R using daggity</title>
+      <link>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</guid>
+      <description>DAGs are powerful visual tools to demonstrate causal relationships.</description>
     </item>
     
   </channel>

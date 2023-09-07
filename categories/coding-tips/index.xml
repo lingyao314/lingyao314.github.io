@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coding tips on Ling Yao&#39;s Personal Website</title>
+    <link>/categories/coding-tips/</link>
+    <description>Recent content in Coding tips on Ling Yao&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/coding-tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drawing a DAG (directed acrylic graph) on a webpage or in R using daggity</title>
+      <link>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</guid>
+      <description>DAGs are powerful visual tools to demonstrate causal relationships.</description>
+    </item>
+    
+  </channel>
+</rss>

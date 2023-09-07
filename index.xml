@@ -6,112 +6,78 @@
     <description>Recent content in Ling Yao on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 15:54:18 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Teaching Philosophy</title>
-      <link>/collection/teaching-philosophy/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      <title>Barbies Don&#39;t Say Sorry</title>
+      <link>/blog/2023-09-07-barbies-don-t-say-sorry/</link>
+      <pubDate>Thu, 07 Sep 2023 15:54:18 -0500</pubDate>
       
-      <guid>/collection/teaching-philosophy/</guid>
-      <description>I think &amp;hellip;</description>
+      <guid>/blog/2023-09-07-barbies-don-t-say-sorry/</guid>
+      <description>I enjoyed watching Barbie the movie directed by Greta Gerwig. As I have been following the interviews and discussions around it, I ran into an interview of Margot Robbie, who played as Barbie. In the interview she shared a important lesson that she learned from watching the Barbie&amp;rsquo;s official YouTube channel. That is, swapping the word &amp;ldquo;sorry&amp;rdquo; for the word &amp;ldquo;thank you&amp;rdquo;. For example, instead of saying &amp;ldquo;sorry, I can&amp;rsquo;t do that&amp;rdquo;, say &amp;ldquo;thank you for understanding that I couldn&amp;rsquo;t do that&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>A first post</title>
-      <link>/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/01-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
-beginning     middle     end     </description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/02-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\02-spoonful\index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/blog\spoonful-series\03-spoonful\index.markdown  Here is my R Markdown source file: blog\spoonful-series\03-spoonful\index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
- To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
-      <title>Agricultural mechanization and employment</title>
+      <title>Agricultural mechanization and structural change</title>
       <link>/project/mechanization/</link>
-      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/project/mechanization/</guid>
-      <description>In this study I look at</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>/talk/second-seedling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Rmarkdown post</title>
-      <link>/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Drawing a DAG (directed acrylic graph) on a webpage or in R using daggity</title>
+      <link>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp,  pch = as.numeric(mlev),  col = mlev)) </description>
+      <guid>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</guid>
+      <description>DAGs are powerful visual tools to demonstrate causal relationships.</description>
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>/talk/seedling/</link>
+      <title>Share tenancy and agricultural risk</title>
+      <link>/project/sharecropping/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/project/sharecropping/</guid>
+      <description>Featured image by Freepik</description>
+    </item>
+    
+    <item>
+      <title>Conservation agriculture in developing countries</title>
+      <link>/project/conservation-ag/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/project/conservation-ag/</guid>
+      <description>Featured image by Freepik</description>
+    </item>
+    
+    <item>
+      <title>University of Minnesota (unofficial) Beamer poster template</title>
+      <link>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</guid>
+      <description>This template is originally forked from Anish Athalye&amp;rsquo;s gemini beamer poster template. To use it, click on the button at the top of this page and make a copy of the Overleaf project.
+Colors and logo     I created a UMN beamer color theme to replace the genemi color theme, and named the color theme file in the root directory &amp;ldquo;beamercolorthemeumn.sty&amp;rdquo;. Among the UMN official colors, I used the UMN Maroon for title background and the UMN Gold for the main title.</description>
+    </item>
+    
+    <item>
+      <title>Math review for new graduate students in applied economics</title>
+      <link>/talk/math-review/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/math-review/</guid>
+      <description>This was a 45-hours summer course that I taught remotely in 2020 during the COVID-19 pandemic. It offered new graduate students an opportunity to connect with each other and prepare for the core courses. Some of the students took the course during midnight while they were still restricted in their home country. Every year I am fascinated by how much students are devoted to learn, overcoming barriers in space and time, and even the crazy realities during the pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Graduate level Econometrics</title>
+      <link>/talk/grad-econometrics/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>/talk/grad-econometrics/</guid>
+      <description>I have been fearful of econometrics since the first lesson in college. Admittedly, it was among the hardest courses and terms like &amp;ldquo;asymptotic&amp;rdquo; and &amp;ldquo;parametric&amp;rdquo; were just too abstract. After taking two versions of this course from different institutions and being the teaching assistant for four instructors that taught this course, I would say that I have climbed up on the spiraling ladder of learning enough to be no longer scared of it.</description>
     </item>
     
     <item>

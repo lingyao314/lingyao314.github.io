@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching assistant on Ling Yao&#39;s Personal Website</title>
+    <link>/categories/teaching-assistant/</link>
+    <description>Recent content in teaching assistant on Ling Yao&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Jan 2020 14:15:59 -0600</lastBuildDate><atom:link href="/categories/teaching-assistant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate level Econometrics</title>
+      <link>/talk/grad-econometrics/</link>
+      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      
+      <guid>/talk/grad-econometrics/</guid>
+      <description>I have been fearful of econometrics since the first lesson in college. Admittedly, it was among the hardest courses and terms like &amp;ldquo;asymptotic&amp;rdquo; and &amp;ldquo;parametric&amp;rdquo; were just too abstract. After taking two versions of this course from different institutions and being the teaching assistant for four instructors that taught this course, I would say that I have climbed up on the spiraling ladder of learning enough to be no longer scared of it.</description>
+    </item>
+    
+  </channel>
+</rss>

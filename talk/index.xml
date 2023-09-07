@@ -1,37 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on Ling Yao&#39;s Personal Website</title>
+    <title>Teaching on Ling Yao&#39;s Personal Website</title>
     <link>/talk/</link>
-    <description>Recent content in Talks that Last on Ling Yao&#39;s Personal Website</description>
+    <description>Recent content in Teaching on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A campfire</title>
-      <link>/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Math review for new graduate students in applied economics</title>
+      <link>/talk/math-review/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+      <guid>/talk/math-review/</guid>
+      <description>This was a 45-hours summer course that I taught remotely in 2020 during the COVID-19 pandemic. It offered new graduate students an opportunity to connect with each other and prepare for the core courses. Some of the students took the course during midnight while they were still restricted in their home country. Every year I am fascinated by how much students are devoted to learn, overcoming barriers in space and time, and even the crazy realities during the pandemic.</description>
     </item>
     
     <item>
-      <title>A seedling</title>
-      <link>/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>/talk/seedling/</link>
+      <title>Graduate level Econometrics</title>
+      <link>/talk/grad-econometrics/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/seedling/</guid>
-      <description></description>
+      <guid>/talk/grad-econometrics/</guid>
+      <description>I have been fearful of econometrics since the first lesson in college. Admittedly, it was among the hardest courses and terms like &amp;ldquo;asymptotic&amp;rdquo; and &amp;ldquo;parametric&amp;rdquo; were just too abstract. After taking two versions of this course from different institutions and being the teaching assistant for four instructors that taught this course, I would say that I have climbed up on the spiraling ladder of learning enough to be no longer scared of it.</description>
     </item>
     
   </channel>
