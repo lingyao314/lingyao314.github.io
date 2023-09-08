@@ -13,7 +13,7 @@
       <pubDate>Thu, 07 Sep 2023 15:54:18 -0500</pubDate>
       
       <guid>/blog/2023-09-07-barbies-don-t-say-sorry/</guid>
-      <description>I enjoyed watching Barbie the movie directed by Greta Gerwig. As I have been following the interviews and discussions around it, I ran into an interview of Margot Robbie, who played as Barbie. In the interview she shared a important lesson that she learned from watching the Barbie&amp;rsquo;s official YouTube channel. That is, swapping the word &amp;ldquo;sorry&amp;rdquo; for the word &amp;ldquo;thank you&amp;rdquo;. For example, instead of saying &amp;ldquo;sorry, I can&amp;rsquo;t do that&amp;rdquo;, say &amp;ldquo;thank you for understanding that I couldn&amp;rsquo;t do that&amp;rdquo;.</description>
+      <description>I enjoyed watching Barbie the movie directed by Greta Gerwig. As I have been following the interviews and discussions around it, I ran into an interview of Margot Robbie, who played as Barbie. In the interview she shared a important lesson that she learned from watching the Barbie&amp;rsquo;s official YouTube channel. That is, swapping the preventive &amp;ldquo;sorry&amp;rdquo; for the word &amp;ldquo;thank you&amp;rdquo;. For example, instead of saying &amp;ldquo;sorry, I can&amp;rsquo;t do that&amp;rdquo;, say &amp;ldquo;thank you for understanding that I couldn&amp;rsquo;t do that&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -23,15 +23,6 @@
       
       <guid>/project/mechanization/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Drawing a DAG (directed acrylic graph) on a webpage or in R using daggity</title>
-      <link>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</link>
-      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2023-08-10-drawing-a-dag-directed-acrylic-graph-using-daggity-on-a-webpage-or-in-r/</guid>
-      <description>DAGs are powerful visual tools to demonstrate causal relationships.</description>
     </item>
     
     <item>
@@ -60,6 +51,16 @@
       <guid>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</guid>
       <description>This template is originally forked from Anish Athalye&amp;rsquo;s gemini beamer poster template. To use it, click on the button at the top of this page and make a copy of the Overleaf project.
 Colors and logo     I created a UMN beamer color theme to replace the genemi color theme, and named the color theme file in the root directory &amp;ldquo;beamercolorthemeumn.sty&amp;rdquo;. Among the UMN official colors, I used the UMN Maroon for title background and the UMN Gold for the main title.</description>
+    </item>
+    
+    <item>
+      <title>Principles of Economics</title>
+      <link>/talk/econ-principles/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/econ-principles/</guid>
+      <description>Starting February 2024, I will join St. Olaf College as Adjunct Assistant Professor and teach the Principles of Economics (micro and macro).
+In the Fall 2022 semester, I worked as a teaching assistant in designing an online version of the Principles of Economics course provided by the Department of Applied Economics, UMN. Click on the button at the top for the sample video lectures and slides that I made for the course.</description>
     </item>
     
     <item>
