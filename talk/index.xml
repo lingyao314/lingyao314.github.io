@@ -6,15 +6,33 @@
     <description>Recent content in Teaching on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Principles of Economics</title>
       <link>/talk/econ-principles/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>/talk/econ-principles/</guid>
-      <description>Starting February 2024, I will join St. Olaf College as Adjunct Assistant Professor and teach the Principles of Economics (micro and macro).
+      <description>Starting February 2024, I will join St. Olaf College as Adjunct Assistant Professor and teach the Principles of Economics.
 In the Fall 2022 semester, I worked as a teaching assistant in designing an online version of the Principles of Economics course provided by the Department of Applied Economics, UMN. Click on the button at the top for the sample video lectures and slides that I made for the course.</description>
+    </item>
+    
+    <item>
+      <title>Graduate level Econometrics</title>
+      <link>/talk/grad-econometrics/</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/grad-econometrics/</guid>
+      <description>Econometrics was among the most challenge courses I took in college. Admittedly, terms like &amp;ldquo;asymptotic&amp;rdquo; and &amp;ldquo;parametric&amp;rdquo; were just too abstract. After taking two versions of this course from different institutions and being the teaching assistant for four instructors that taught this course, I would say that I have climbed up on the spiraling ladder of learning enough to be no longer scared of it. Perhaps the best way to learn it is through viewing the same thing from different angles, and my favorite angle is through Professor Joe Ritter&amp;rsquo;s data simulation and visualization.</description>
+    </item>
+    
+    <item>
+      <title>Managerial Economics</title>
+      <link>/talk/managerial-economics/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/managerial-economics/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -23,16 +41,7 @@ In the Fall 2022 semester, I worked as a teaching assistant in designing an onli
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/talk/math-review/</guid>
-      <description>This was a 45-hours summer course that I taught remotely in 2020 during the COVID-19 pandemic. It offered new graduate students an opportunity to connect with each other and prepare for the core courses. Some of the students took the course during midnight while they were still restricted in their home country. Every year I am fascinated by how much students are devoted to learn, overcoming barriers in space and time, and even the crazy realities during the pandemic.</description>
-    </item>
-    
-    <item>
-      <title>Graduate level Econometrics</title>
-      <link>/talk/grad-econometrics/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>/talk/grad-econometrics/</guid>
-      <description>I have been fearful of econometrics since the first lesson in college. Admittedly, it was among the hardest courses and terms like &amp;ldquo;asymptotic&amp;rdquo; and &amp;ldquo;parametric&amp;rdquo; were just too abstract. After taking two versions of this course from different institutions and being the teaching assistant for four instructors that taught this course, I would say that I have climbed up on the spiraling ladder of learning enough to be no longer scared of it.</description>
+      <description>This was a 45-hours summer course that I taught remotely in 2020 during the COVID-19 pandemic. It offered new graduate students an opportunity to connect with each other and prepare for the core courses. Some of the students took the course during midnight while they were still restricted in their home country. Every year I am fascinated by how much students are devoted to learn, overcoming barriers of space and time, and even the crazy realities during the pandemic.</description>
     </item>
     
   </channel>
