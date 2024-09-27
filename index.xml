@@ -6,7 +6,17 @@
     <description>Recent content in Ling Yao on Ling Yao&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 15:54:18 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principles of Economics</title>
+      <link>/talk/econ-principles/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/econ-principles/</guid>
+      <description>From February to May 2024, I taught Principles of Economics at St. Olaf College to two sections of students. Before this, I worked as a teaching assistant in designing an online version of the course at UMN in the Fall 2022 semester.
+When I designed the course, I paid special attention to the before-class and after-class assignments to help students establish a consistent rhythm. Before classes, students would read a short article or a news piece related to the subject and briefly answer some reflection questions.</description>
+    </item>
+    
     <item>
       <title>Barbies Don&#39;t Say Sorry</title>
       <link>/blog/2023-09-07-barbies-don-t-say-sorry/</link>
@@ -60,16 +70,6 @@
       <guid>/collection/2023-08-08-university-of-minnesota-unofficial-overleaf-poster-template/</guid>
       <description>This template is originally forked from Anish Athalye&amp;rsquo;s gemini beamer poster template. To use it, click on the button at the top of this page and make a copy of the Overleaf project.
 Colors and logo     I created a UMN beamer color theme to replace the genemi color theme, and named the color theme file in the root directory &amp;ldquo;beamercolorthemeumn.sty&amp;rdquo;. Among the UMN official colors, I used the UMN Maroon for title background and the UMN Gold for the main title.</description>
-    </item>
-    
-    <item>
-      <title>Principles of Economics</title>
-      <link>/talk/econ-principles/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/econ-principles/</guid>
-      <description>From February to May 2024, I taught Principles of Economics at St. Olaf College to two sections of students. Before this, I worked as a teaching assistant in designing an online version of the course at UMN in the Fall 2022 semester.
-When I designed the course, I paid special attention to the before-class and after-class assignments to help students establish a consistent rhythm. Before classes, students would read a short article or a news piece related to the subject and briefly answer some reflection questions.</description>
     </item>
     
     <item>
