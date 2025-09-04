@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/</loc>
-    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/econometrics/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/farm-size/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/productivity/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/farm-size-productivity/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/working-paper/</loc>
+    <lastmod>2025-09-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/collection/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/2025-06-04-teaching-as-a-graduate-student/</loc>
     <lastmod>2025-06-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/instructor/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
@@ -41,19 +62,10 @@
     <loc>/tags/mechanization/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/shift-share-iv/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/subjective-life-expectancy-and-pension-participation/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/working-paper/</loc>
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/agricultural-risk/</loc>
